@@ -1,6 +1,6 @@
 cask "blockableplayer" do
   version "0.1.0"
-  sha256 "90457ce784a6101a97e2461a8fbbbe498760ae6f3da30a928d5c7dd8d498a6fa"
+  sha256 "bda636765c681faa5c2c9aa5427ccb0a1e5cd4f2fb801d09d88d345c6e194342"
 
   url "https://github.com/italmassov/blockable_player/releases/download/v0.1.0/BlockablePlayer.zip"
   name "BlockablePlayer"
